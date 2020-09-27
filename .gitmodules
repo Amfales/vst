@@ -1,0 +1,3 @@
+[submodule "TsyDMASPI"]
+	path = TsyDMASPI
+	url = https://github.com/Amfales/TsyDMASPI
